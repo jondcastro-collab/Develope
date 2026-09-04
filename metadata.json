@@ -1,0 +1,7 @@
+{
+  "name": "Modelo Operativo Colsubsidio – Salud Activa",
+  "description": "Herramienta interactiva y visual del modelo operativo del subsidio Colsubsidio - Salud Activa para colectivos",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
